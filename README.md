@@ -24,7 +24,7 @@ Vortex Verse is a personal project crafted for both enjoyment and as a testament
 
 ### 1. **Login Page:**
 
-![Login Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/login.jpg)
+![Login Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/login.jpg)
 
 Securely access Vortext Verse with the login page.
 
@@ -32,7 +32,7 @@ Securely access Vortext Verse with the login page.
 
 ### 2. **Signup Page:**
 
-![Signup Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/signup.jpg)
+![Signup Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/signup.jpg)
 
 Quickly create a new account with the signup page.
 
@@ -40,7 +40,7 @@ Quickly create a new account with the signup page.
 
 ### 3. **Home Page:**
 
-![Home Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/homejpg.jpg)
+![Home Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/homejpg.jpg)
 
 The central hub after login, displaying recent conversations and notifications.
 
@@ -48,7 +48,7 @@ The central hub after login, displaying recent conversations and notifications.
 
 ### 4. **Search Page:**
 
-![Search Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/searchBar.jpg)
+![Search Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/searchBar.jpg)
 
 find and connect with friends or users.
 
@@ -56,24 +56,24 @@ find and connect with friends or users.
 
 ### 5. **Chatting Page and Customized Group Creation**
 
-![Chatting Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/chattingOpened.jpg)
+![Chatting Page](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/chattingOpened.jpg)
 
 Engage in real-time conversations with the sleek chatting interface.
 
 ---
 ### 6. **Creating New Group UI**
 
-![Creating new Group UI](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/createNewGUI.jpg))
+![Creating new Group UI](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/createNewGUI.jpg))
 
 ---
 ### 7. **Updating Group UI**
 
-![Creating new Group UI](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/updateGnameUI.jpg))
+![Creating new Group UI](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/updateGnameUI.jpg))
 
 ---
 ### 8. **Real time Chatting UI**
 
-![Creating new Group UI](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/master/Screenshots/RealTimeChattingUI.jpg)
+![Creating new Group UI](https://github.com/Yordi-SE/Real-Time-Chatting-Application/blob/main/Screenshots/RealTimeChattingUI.jpg)
 
 ---
 
