@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.right-bar {
+    width: 65%;
+    background-color: white;
+    height: 85vh ;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+
+.start-chat-container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.start-chat{
+    font-weight: 300;
+}
+
+
+.component-wrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.rightBar-header{
+    height: 15%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline:15px ;
+    
+}
+
+.rightBar-footer{
+    min-height: 10%;
+box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+
+    
+}
+
+
+.msg-input{
+    height: 100%;
+    border: none;
+    width: 90%;
+    outline:  none;
+    padding-left: 10px;
+}
+
+/* .rightBar-main{
+    justify-self: flex-end;
+} */
+
+.send-btn{
+    height: 100%;
+    border: none;
+    background-color: #1DB954;
+    width: 10%;
+    color: white;
+    
+    text-shadow: 0px 0px 0px 1px black;
+    cursor: pointer;
+
+}
+
+.rightBar-below{
+    min-height: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.rightBar-name{
+    font-weight: 300;
+}
+
+.view{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.rightBar-main {
+    margin-inline: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+.rightBar-main::-webkit-scrollbar {
+    width: 0;
+}
+
+/* For Firefox */
+.rightBar-main scrollbar-width: none;
+
+/* For Internet Explorer and Edge */
+.rightBar-main -ms-overflow-style: none;
