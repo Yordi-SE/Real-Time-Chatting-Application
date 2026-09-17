@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.user-card{
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 1rem;
+    gap: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    z-index: 998;
+    background-color: #fff;
+    min-width: 100%;
+}
+
+
+
+.profile-picture{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.user-name{
+    font-size: 14px;
+}
+.user-email{
+    font-size: 14px;
+}
+
+
+.user-card:hover {
+    background-color: #1877f2;
+    color: white;
+
+    .profile-picture {
+        border: 1px solid white;
+    }
+}
